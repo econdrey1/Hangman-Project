@@ -27,15 +27,6 @@ The game randomly selects a word, and the player must guess the correct letters 
 - **String Manipulation:** Updates the hidden word as letters are guessed.
 - **Import Statements:** Imports the word list and Hangman artwork from separate Python files.
 
-## How to Run the Game
-
-1. Download or clone this repository.
-2. Make sure Python is installed.
-3. Keep all three Python files in the same folder.
-4. Open the project in PyCharm or another Python editor.
-5. Run `main.py`.
-6. Start guessing letters to play!
-
 ## What I Learned
 
 While creating this project, I learned how to combine different Python concepts into one working program. I practiced using loops to repeat actions, conditional statements to make decisions, and lists to track player progress.
