@@ -43,16 +43,3 @@ While creating this project, I learned how to combine different Python concepts 
 I also learned how to organize my code into separate Python files and import them into the main program.
 
 This project helped me improve my problem-solving skills and gain more experience writing Python programs.
-
-## Future Improvements
-
-- Add difficulty levels.
-- Allow players to choose different word categories.
-- Keep track of wins and losses.
-- Add an option to restart the game.
-
-## Course
-
-**100 Days of Code: The Complete Python Pro Bootcamp**
-
-Day 7 – Hangman Project
